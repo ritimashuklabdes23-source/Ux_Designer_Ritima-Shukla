@@ -9,7 +9,7 @@
   const calendlyUrl = config.calendlyUrl || "";
 
   function getCalendlyUrl() {
-    if (!calendlyUrl || calendlyUrl.includes("https://calendly.com/ritimashukla4115/30min")) {
+    if (!calendlyUrl || calendlyUrl.includes(https://calendly.com/ritimashukla4115/30min)) {
       return null;
     }
     return calendlyUrl;
