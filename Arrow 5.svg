@@ -1,0 +1,19 @@
+<svg width="13" height="16" viewBox="0 0 13 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.2">
+<mask id="mask0_38_83" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="13" height="16">
+<circle cx="1.33331" cy="1.33331" r="1.33331" fill="#02324F"/>
+<circle cx="1.33331" cy="1.33331" r="1.33331" transform="matrix(-1 0 0 1 9.33324 9.99982)" fill="#02324F"/>
+<circle cx="4.66665" cy="4.66686" r="1.33331" fill="#02324F"/>
+<circle cx="1.33331" cy="1.33331" r="1.33331" transform="matrix(-1 0 0 1 5.99988 13.3334)" fill="#02324F"/>
+<circle cx="7.99999" cy="7.99957" r="1.33331" fill="#02324F"/>
+<circle cx="4.66665" cy="1.33331" r="1.33331" fill="#02324F"/>
+<circle cx="1.33331" cy="1.33331" r="1.33331" transform="matrix(-1 0 0 1 5.99988 9.99982)" fill="#02324F"/>
+<circle cx="7.99999" cy="4.66686" r="1.33331" fill="#02324F"/>
+<circle cx="1.33331" cy="1.33331" r="1.33331" transform="matrix(-1 0 0 1 2.66676 13.3334)" fill="#02324F"/>
+<circle cx="11.3331" cy="7.99957" r="1.33331" fill="#02324F"/>
+</mask>
+<g mask="url(#mask0_38_83)">
+<rect x="-4.6665" y="-2.66632" width="20.6663" height="21.3329" fill="#111827"/>
+</g>
+</g>
+</svg>
