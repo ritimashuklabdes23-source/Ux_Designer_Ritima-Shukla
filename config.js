@@ -5,5 +5,5 @@
  * Example: https://calendly.com/ritima-shukla/30min
  */
 window.SITE_CONFIG = {
-  calendlyUrl: "https://calendly.com/ritimashukla4115/30min",
+  calendlyUrl: https://calendly.com/ritimashukla4115/30min
 };
